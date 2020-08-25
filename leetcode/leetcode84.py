@@ -18,3 +18,4 @@ def HistogramArea(arr):
 
 # keep this function call here 
 print(HistogramArea(input()))
+
